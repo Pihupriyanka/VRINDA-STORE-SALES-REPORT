@@ -1,4 +1,4 @@
-Flipkart and cha uti# VRINDA-STORE-SALES-REPORT
+# VRINDA-STORE-SALES-REPORT
 # Objective :
 created this annual report for Vrinda Store to help them understand their customers better and drive sales growth in 2023 .
 # Sample Questions 
